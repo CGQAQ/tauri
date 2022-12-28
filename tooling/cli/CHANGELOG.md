@@ -1,5 +1,16 @@
 # Changelog
 
+## \[2.0.0-alpha.2]
+
+- Force colored logs on mobile commands.
+  - [2c4a0bbd](https://www.github.com/tauri-apps/tauri/commit/2c4a0bbd1fbe15d7500264e6490772397e1917ed) feat(cli): force colored logs on mobile commands ([#5934](https://www.github.com/tauri-apps/tauri/pull/5934)) on 2022-12-28
+- Keep the process alive even when the iOS application is closed.
+  - [dee9460f](https://www.github.com/tauri-apps/tauri/commit/dee9460f9c9bc92e9c638e7691e616849ac2085b) feat: keep CLI alive when iOS app exits, show logs, closes [#5855](https://www.github.com/tauri-apps/tauri/pull/5855) ([#5902](https://www.github.com/tauri-apps/tauri/pull/5902)) on 2022-12-27
+- Show all application logs on iOS.
+  - [dee9460f](https://www.github.com/tauri-apps/tauri/commit/dee9460f9c9bc92e9c638e7691e616849ac2085b) feat: keep CLI alive when iOS app exits, show logs, closes [#5855](https://www.github.com/tauri-apps/tauri/pull/5855) ([#5902](https://www.github.com/tauri-apps/tauri/pull/5902)) on 2022-12-27
+- Fix target directory detection when compiling for Android.
+  - [e873bae0](https://www.github.com/tauri-apps/tauri/commit/e873bae09f0f27517f720a753f51c1dcb903f883) fix(cli): Cargo target dir detection on Android, closes [#5865](https://www.github.com/tauri-apps/tauri/pull/5865) ([#5932](https://www.github.com/tauri-apps/tauri/pull/5932)) on 2022-12-28
+
 ## \[2.0.0-alpha.1]
 
 - Fixes running on device using Xcode 14.

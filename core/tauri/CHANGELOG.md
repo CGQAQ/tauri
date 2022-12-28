@@ -1,5 +1,10 @@
 # Changelog
 
+## \[2.0.0-alpha.3]
+
+- Show all application logs on iOS.
+  - [dee9460f](https://www.github.com/tauri-apps/tauri/commit/dee9460f9c9bc92e9c638e7691e616849ac2085b) feat: keep CLI alive when iOS app exits, show logs, closes [#5855](https://www.github.com/tauri-apps/tauri/pull/5855) ([#5902](https://www.github.com/tauri-apps/tauri/pull/5902)) on 2022-12-27
+
 ## \[2.0.0-alpha.2]
 
 - Fix the filesystem scope allowing sub-directories of the directory picked by the dialog when `recursive` option was `false`.

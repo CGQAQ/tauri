@@ -11,15 +11,20 @@
     ".changes/dev-proxy.md",
     ".changes/fix-dev-server-proxy-path.md",
     ".changes/fix-ios-run-xcode14.md",
+    ".changes/force-colored-logs.md",
     ".changes/glob-match-require_literal_separator.md",
     ".changes/improve-local-ip-detection.md",
+    ".changes/ios-keep-alive.md",
+    ".changes/ios-logs.md",
     ".changes/mobile-config.md",
     ".changes/mobile-entry-point-macro.md",
+    ".changes/mobile-env-vars-rename.md",
     ".changes/mobile-init.md",
     ".changes/mobile-open.md",
     ".changes/mobile-webview-access.md",
     ".changes/mobile.md",
     ".changes/refactor-setup.md",
+    ".changes/target-dir-detection.md",
     ".changes/tauri-mobile-entry-point.md"
   ]
 }
